@@ -1,0 +1,118 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-11-19T02:36:55.740Z",
+        "line": 3,
+        "name": "Testing inheritance",
+        "description": "",
+        "id": "testing-oop;testing-inheritance",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2448453,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "print BaseImpl string",
+            "match": {
+              "location": "BaseSteps.return_baseimpl_string()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5002736676,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "print concrete string after setting base string",
+            "match": {
+              "location": "ConcreteSteps.return_concrete_1()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 823344,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "print BaseImpl string",
+            "match": {
+              "location": "BaseSteps.return_baseimpl_string()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Testing OOP",
+    "description": "",
+    "id": "testing-oop",
+    "keyword": "Feature",
+    "uri": "classpath:features/Test.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-11-19T02:36:55.740Z",
+        "line": 3,
+        "name": "Testing inheritance",
+        "description": "",
+        "id": "testing-oop-2;testing-inheritance",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 822435,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "print BaseImpl string",
+            "match": {
+              "location": "BaseSteps.return_baseimpl_string()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5002726290,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "print concrete string after setting base string",
+            "match": {
+              "location": "ConcreteSteps.return_concrete_1()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 476873,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "print BaseImpl string",
+            "match": {
+              "location": "BaseSteps.return_baseimpl_string()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Testing OOP 2",
+    "description": "",
+    "id": "testing-oop-2",
+    "keyword": "Feature",
+    "uri": "classpath:features/Test2.feature",
+    "tags": []
+  }
+]
