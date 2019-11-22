@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/TestPatternReplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/baf32ce89b250d9e651d4113f285b2acfbf180ed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-Testing OOP 2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-Testing OOP 2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-Testing OOP.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-Testing OOP.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/Testing OOP 2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/Testing OOP 2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/Testing OOP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/Testing OOP.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/cucumber-report.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/reports/cucumber-report.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/TestPatternReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/TestPatternReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/TestPatternReplace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/TestPatternReplace.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,25 +59,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.TestPatternReplace.test">
-    <configuration name="Scenario: Testing inheritance" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Test.feature" />
-      <option name="GLUE" value="org.steps" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="test" />
-      <option name="NAME_FILTER" value="^Testing inheritance$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Testing inheritance$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Testing inheritance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestPatternReplace.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -102,10 +75,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPatternReplace.testingJsonMapper (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org" />
+      <option name="MAIN_CLASS_NAME" value="org.TestPatternReplace" />
+      <option name="METHOD_NAME" value="testingJsonMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPatternReplace.testingJsonMapper (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org" />
+      <option name="MAIN_CLASS_NAME" value="org.TestPatternReplace" />
+      <option name="METHOD_NAME" value="testingJsonMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPatternReplace.testingJsonMapper (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org" />
+      <option name="MAIN_CLASS_NAME" value="org.TestPatternReplace" />
+      <option name="METHOD_NAME" value="testingJsonMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPatternReplace.testingJsonMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org" />
+      <option name="MAIN_CLASS_NAME" value="org.TestPatternReplace" />
+      <option name="METHOD_NAME" value="testingJsonMapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestPatternReplace.test" />
-        <item itemvalue="Cucumber java.Scenario: Testing inheritance" />
+        <item itemvalue="JUnit.TestPatternReplace.testingJsonMapper" />
+        <item itemvalue="JUnit.TestPatternReplace.testingJsonMapper (3)" />
+        <item itemvalue="JUnit.TestPatternReplace.testingJsonMapper (2)" />
+        <item itemvalue="JUnit.TestPatternReplace.testingJsonMapper (1)" />
       </list>
     </recent_temporary>
   </component>
