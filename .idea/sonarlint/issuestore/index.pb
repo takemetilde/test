@@ -15,5 +15,5 @@ Y
 )src/test/resources/features/Test2.feature,5/2/52dcf99082a7bcf3a86fec92fcd7eecf2181a008
 X
 (src/test/resources/features/Test.feature,e/0/e093b4f2b27ef53d321f0b331c888f5058290941
-S
-#src/test/java/org/RunnerITTest.java,b/a/baf32ce89b250d9e651d4113f285b2acfbf180ed
+Y
+)src/test/java/org/TestPatternReplace.java,c/a/ca3053f5665d800962e5cf03b7abd16bf86a4aa0
