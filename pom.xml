@@ -39,10 +39,38 @@
                 </configuration>
                 <executions>
                     <execution>
+                        <id>IT</id>
                         <goals>
                             <goal>integration-test</goal>
-                            <goal>verify</goal>
                         </goals>
+                    </execution>
+<!--                    <execution>-->
+<!--                        <id>GenerateReports</id>-->
+<!--                        <goals>-->
+<!--                            <goal>verify</goal>-->
+<!--                        </goals>-->
+<!--                    </execution>-->
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>net.masterthought</groupId>
+                <artifactId>maven-cucumber-reporting</artifactId>
+                <version>4.11.2</version>
+                <executions>
+                    <execution>
+                        <id>execution</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>generate</goal>
+                        </goals>
+                        <configuration>
+                            <skip>true</skip>
+                            <projectName>cucumber-jvm-example</projectName>
+                            <outputDirectory>${project.build.directory}/reports/cucumber-reports</outputDirectory>
+                            <jsonFiles>
+                                <file>${project.build.directory}/reports/*.json</file>
+                            </jsonFiles>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>

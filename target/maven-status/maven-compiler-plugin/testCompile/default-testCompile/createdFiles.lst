@@ -1,4 +1,5 @@
 org/impl/ConcreteImpl.class
+org/TestPatternReplace.class
 org/impl/BaseImpl.class
 org/steps/ConcreteSteps.class
 org/steps/BaseSteps.class

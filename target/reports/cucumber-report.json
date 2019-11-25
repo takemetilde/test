@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2019-11-19T03:21:28.771Z",
+        "start_timestamp": "2019-11-25T18:53:19.148Z",
         "line": 3,
         "name": "Testing inheritance",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1466710,
+              "duration": 2286949,
               "status": "passed"
             },
             "line": 4,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 5004076271,
+              "duration": 5005612012,
               "status": "passed"
             },
             "line": 5,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 406648,
+              "duration": 421580,
               "status": "passed"
             },
             "line": 6,
@@ -61,7 +61,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2019-11-19T03:21:28.771Z",
+        "start_timestamp": "2019-11-25T18:53:19.148Z",
         "line": 3,
         "name": "Testing inheritance",
         "description": "",
@@ -71,7 +71,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1428726,
+              "duration": 855328,
               "status": "passed"
             },
             "line": 4,
@@ -83,7 +83,7 @@
           },
           {
             "result": {
-              "duration": 5004072319,
+              "duration": 5005568647,
               "status": "passed"
             },
             "line": 5,
@@ -95,7 +95,7 @@
           },
           {
             "result": {
-              "duration": 631973,
+              "duration": 809217,
               "status": "passed"
             },
             "line": 6,
