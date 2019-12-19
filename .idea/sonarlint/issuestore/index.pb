@@ -17,3 +17,9 @@ X
 (src/test/resources/features/Test.feature,e/0/e093b4f2b27ef53d321f0b331c888f5058290941
 Y
 )src/test/java/org/TestPatternReplace.java,c/a/ca3053f5665d800962e5cf03b7abd16bf86a4aa0
+8
+test.iml,f/c/fc47de26a6da29f98ef6f955c271bb344ca0a81b
+O
+src/test/java/org/RunnerIT.java,f/d/fdd7f9cdc2948ec255560720a0280ae1a8845f48
+W
+'src/test/java/org/lambda/SteamTest.java,a/8/a847b08098ea3f6cd4ed8d0de1e754fd70397c1d

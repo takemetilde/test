@@ -44,12 +44,6 @@
                             <goal>integration-test</goal>
                         </goals>
                     </execution>
-<!--                    <execution>-->
-<!--                        <id>GenerateReports</id>-->
-<!--                        <goals>-->
-<!--                            <goal>verify</goal>-->
-<!--                        </goals>-->
-<!--                    </execution>-->
                 </executions>
             </plugin>
             <plugin>
@@ -74,7 +68,7 @@
                     </execution>
                 </executions>
             </plugin>
-        </plugins>
+      </plugins>
     </build>
 
 </project>
