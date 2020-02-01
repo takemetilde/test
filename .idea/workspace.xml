@@ -2,18 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SteamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca3053f5665d800962e5cf03b7abd16bf86a4aa0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca3053f5665d800962e5cf03b7abd16bf86a4aa0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SingleMethodInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SingleMethodInterfaceWithManyArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SingleMethodInterfaceWithNoArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SingleMethodInterfaceWithReturnValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/optionals/OptionalsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/reflections/ReflectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/util/TestDataTableTypeRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a847b08098ea3f6cd4ed8d0de1e754fd70397c1d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/eff6b48c7ed7a6811c82338727ede07e64962743" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/eff6b48c7ed7a6811c82338727ede07e64962743" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/RunnerIT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/RunnerIT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/TestPatternReplace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/TestPatternReplace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/BaseImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/BaseImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/steps/BaseSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/steps/BaseSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/lambda/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/steps/ConcreteSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/steps/ConcreteSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-Testing OOP 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-Testing OOP.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/Testing OOP 2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/Testing OOP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/jquery-1.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/reports/cucumber-report.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire3721518762479490691tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire4356090349749326749tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_04078381692363508236tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_06258698183535153496tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter597113822440132753.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter6042702181017834912.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/SteamTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/org/steps/ConcreteSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/steps/ConcreteSteps.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +55,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,17 +80,17 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/ncr/impl" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/ncr/impl" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/test/java/features" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java/ncr/impl" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,84 +105,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SteamTest.stream">
-    <configuration name="Scenario: Testing inheritance" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Test.feature" />
-      <option name="GLUE" value="org.steps" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="test" />
-      <option name="NAME_FILTER" value="^Testing inheritance$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Testing inheritance$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Testing inheritance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SteamTest.stream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ReflectionsTest.compareNonNullParametersFromObjects_test">
+    <configuration name="ReflectionsTest.compareNonNullParametersFromObjects_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.lambda.SteamTest" />
+          <option name="PATTERN" value="org.reflections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.lambda" />
-      <option name="MAIN_CLASS_NAME" value="org.lambda.SteamTest" />
-      <option name="METHOD_NAME" value="stream" />
+      <option name="PACKAGE_NAME" value="org.reflections" />
+      <option name="MAIN_CLASS_NAME" value="org.reflections.ReflectionsTest" />
+      <option name="METHOD_NAME" value="compareNonNullParametersFromObjects_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPatternReplace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReflectionsTest.reflections_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.*" />
+          <option name="PATTERN" value="org.reflections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org" />
-      <option name="MAIN_CLASS_NAME" value="org.TestPatternReplace" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPatternReplace.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org" />
-      <option name="MAIN_CLASS_NAME" value="org.TestPatternReplace" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="org.reflections" />
+      <option name="MAIN_CLASS_NAME" value="org.reflections.ReflectionsTest" />
+      <option name="METHOD_NAME" value="reflections_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPatternReplace.testingJsonMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamTest.stream_test_filter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.*" />
+          <option name="PATTERN" value="org.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org" />
-      <option name="MAIN_CLASS_NAME" value="org.TestPatternReplace" />
-      <option name="METHOD_NAME" value="testingJsonMapper" />
+      <option name="PACKAGE_NAME" value="org.streams" />
+      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
+      <option name="METHOD_NAME" value="stream_test_filter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest.stream_test_for_each" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.streams" />
+      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
+      <option name="METHOD_NAME" value="stream_test_for_each" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest.stream_test_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.streams" />
+      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
+      <option name="METHOD_NAME" value="stream_test_map" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SteamTest.stream" />
-        <item itemvalue="Cucumber java.Scenario: Testing inheritance" />
-        <item itemvalue="JUnit.TestPatternReplace.test" />
-        <item itemvalue="JUnit.TestPatternReplace" />
-        <item itemvalue="JUnit.TestPatternReplace.testingJsonMapper" />
+        <item itemvalue="JUnit.ReflectionsTest.compareNonNullParametersFromObjects_test" />
+        <item itemvalue="JUnit.ReflectionsTest.reflections_test" />
+        <item itemvalue="JUnit.StreamTest.stream_test_filter" />
+        <item itemvalue="JUnit.StreamTest.stream_test_map" />
+        <item itemvalue="JUnit.StreamTest.stream_test_for_each" />
       </list>
     </recent_temporary>
   </component>
