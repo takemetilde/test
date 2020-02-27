@@ -2,51 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/LambdaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SingleMethodInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SingleMethodInterfaceWithManyArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SingleMethodInterfaceWithNoArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lambda/SingleMethodInterfaceWithReturnValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/optionals/OptionalsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/reflections/ReflectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/util/TestDataTableTypeRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a847b08098ea3f6cd4ed8d0de1e754fd70397c1d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/eff6b48c7ed7a6811c82338727ede07e64962743" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/eff6b48c7ed7a6811c82338727ede07e64962743" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0574a4429620307da2b17e66b30f9dbfd9b20c5b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/synopsys_code_sight_state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704639ddfb43c948c938e33e540cd9ec1ed94fa3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704639ddfb43c948c938e33e540cd9ec1ed94fa3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/lambda/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/steps/ConcreteSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/steps/ConcreteSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Test.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-Testing OOP 2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-Testing OOP.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/Testing OOP 2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/Testing OOP.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/formatter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/jquery-1.8.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/HtmlReports/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/reports/cucumber-report.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire3721518762479490691tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire4356090349749326749tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_04078381692363508236tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefire_06258698183535153496tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter597113822440132753.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire/surefirebooter6042702181017834912.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/Test.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/SteamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/steps/ConcreteSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/steps/ConcreteSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/model/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/model/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/model/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/model/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/streams/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/streams/StreamTest.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,8 +45,17 @@
   </component>
   <component name="ProjectId" id="1TnYl0ymVqy4yCQvrU60GiM7sTr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/ncr/impl" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -93,19 +70,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/features" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.ReflectionsTest.compareNonNullParametersFromObjects_test">
+  <component name="RunManager" selected="JUnit.StreamTest.stream_test_filter_then_map">
     <configuration name="ReflectionsTest.compareNonNullParametersFromObjects_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -154,7 +119,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest.stream_test_for_each" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamTest.stream_test_filter_then_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -164,7 +129,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.streams" />
       <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
-      <option name="METHOD_NAME" value="stream_test_for_each" />
+      <option name="METHOD_NAME" value="stream_test_filter_then_map" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -188,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ReflectionsTest.compareNonNullParametersFromObjects_test" />
-        <item itemvalue="JUnit.ReflectionsTest.reflections_test" />
+        <item itemvalue="JUnit.StreamTest.stream_test_filter_then_map" />
         <item itemvalue="JUnit.StreamTest.stream_test_filter" />
+        <item itemvalue="JUnit.ReflectionsTest.reflections_test" />
+        <item itemvalue="JUnit.ReflectionsTest.compareNonNullParametersFromObjects_test" />
         <item itemvalue="JUnit.StreamTest.stream_test_map" />
-        <item itemvalue="JUnit.StreamTest.stream_test_for_each" />
       </list>
     </recent_temporary>
   </component>
@@ -206,8 +171,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574097473183</updated>
+      <workItem from="1581351251728" duration="626000" />
+      <workItem from="1581352779156" duration="616000" />
+      <workItem from="1581361717091" duration="593000" />
+      <workItem from="1581434950502" duration="1713000" />
+      <workItem from="1581642178702" duration="7331000" />
+      <workItem from="1582206134958" duration="295000" />
+      <workItem from="1582208197555" duration="2938000" />
+      <workItem from="1582590671899" duration="1661000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -221,5 +197,32 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1581689906316">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="653" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689608667" />
+    <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1581689906316" />
+    <state width="1636" height="253" key="GridCell.Tab.0.bottom" timestamp="1582206112556">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499496" />
+    <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1582206112556" />
+    <state width="1636" height="253" key="GridCell.Tab.0.center" timestamp="1582206112556">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499495" />
+    <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1582206112556" />
+    <state width="1636" height="253" key="GridCell.Tab.0.left" timestamp="1582206112556">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499494" />
+    <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1582206112556" />
+    <state width="1636" height="253" key="GridCell.Tab.0.right" timestamp="1582206112556">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499496" />
+    <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1582206112556" />
   </component>
 </project>

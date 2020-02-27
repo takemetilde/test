@@ -5,6 +5,16 @@ public class Square extends Shape
     int squareId;
     String squareShape;
 
+    public Square()
+    {
+    }
+
+    public Square( int squareId, String squareShape )
+    {
+        this.squareId = squareId;
+        this.squareShape = squareShape;
+    }
+
     public int getSquareId()
     {
         return squareId;
@@ -23,5 +33,13 @@ public class Square extends Shape
     public void setSquareShape( String squareShape )
     {
         this.squareShape = squareShape;
+    }
+
+    @Override public String toString()
+    {
+        return "Square{" +
+                "squareId=" + squareId +
+                ", squareShape='" + squareShape + '\'' +
+                '}';
     }
 }
