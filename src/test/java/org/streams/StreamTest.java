@@ -42,7 +42,7 @@ public class StreamTest
         assertThat( list2, contains(
                 hasProperty( "circleShape", equalTo( "Oval" ) ),
                 hasProperty( "circleShape", equalTo( "Ellipse" ) ),
-                hasProperty( "circleShape", equalTo( null ) )
+                hasProperty( "circleShape", equalTo( null  )
         ) );
     }
 
@@ -72,4 +72,9 @@ public class StreamTest
         System.out.println( list3 );
     }
 
+    @Test
+    public void stream_test_another_map()
+    {
+
+    }
 }

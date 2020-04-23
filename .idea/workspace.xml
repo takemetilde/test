@@ -2,18 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0574a4429620307da2b17e66b30f9dbfd9b20c5b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/synopsys_code_sight_state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c66b20d8ee80427ab73d8a8fdc366cb8e28bc6e1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/objectmapper/model/Participant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/objectmapper/model/ParticipantCapability.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704639ddfb43c948c938e33e540cd9ec1ed94fa3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704639ddfb43c948c938e33e540cd9ec1ed94fa3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca3053f5665d800962e5cf03b7abd16bf86a4aa0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/model/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/model/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/TestPatternReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/string/TestPatternReplace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/TestPatternReplace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/BaseImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/BaseImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/lambda/LambdaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterfaceWithManyArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterfaceWithManyArgs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterfaceWithReturnValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterfaceWithReturnValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/model/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/model/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/model/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/model/Shape.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/org/model/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/model/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/reflections/ReflectionsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/reflections/ReflectionsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/steps/ConcreteSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/steps/ConcreteSteps.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/org/streams/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/streams/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/util/TestDataTableTypeRegistry$JacksonTableTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/util/TestDataTableTypeRegistry$JacksonTableTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/util/TestDataTableTypeRegistry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/util/TestDataTableTypeRegistry.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +71,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="{&quot;epochSecond&quot;:1582915843,&quot;nano&quot;:93000000}" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -70,39 +87,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/features" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StreamTest.stream_test_filter_then_map">
-    <configuration name="ReflectionsTest.compareNonNullParametersFromObjects_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.reflections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.reflections" />
-      <option name="MAIN_CLASS_NAME" value="org.reflections.ReflectionsTest" />
-      <option name="METHOD_NAME" value="compareNonNullParametersFromObjects_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReflectionsTest.reflections_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.reflections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.reflections" />
-      <option name="MAIN_CLASS_NAME" value="org.reflections.ReflectionsTest" />
-      <option name="METHOD_NAME" value="reflections_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.StreamTest.stream_test_map">
     <configuration name="StreamTest.stream_test_filter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -151,13 +136,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestPatternReplace.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.string" />
+      <option name="MAIN_CLASS_NAME" value="org.string.TestPatternReplace" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPatternReplace.testingMatcher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.string" />
+      <option name="MAIN_CLASS_NAME" value="org.string.TestPatternReplace" />
+      <option name="METHOD_NAME" value="testingMatcher" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StreamTest.stream_test_map" />
+        <item itemvalue="JUnit.TestPatternReplace.testingMatcher" />
+        <item itemvalue="JUnit.TestPatternReplace.test" />
         <item itemvalue="JUnit.StreamTest.stream_test_filter_then_map" />
         <item itemvalue="JUnit.StreamTest.stream_test_filter" />
-        <item itemvalue="JUnit.ReflectionsTest.reflections_test" />
-        <item itemvalue="JUnit.ReflectionsTest.compareNonNullParametersFromObjects_test" />
-        <item itemvalue="JUnit.StreamTest.stream_test_map" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +195,12 @@
       <workItem from="1581642178702" duration="7331000" />
       <workItem from="1582206134958" duration="295000" />
       <workItem from="1582208197555" duration="2938000" />
-      <workItem from="1582590671899" duration="1661000" />
+      <workItem from="1582590671899" duration="4300000" />
+      <workItem from="1582835082362" duration="4136000" />
+      <workItem from="1583156422200" duration="2894000" />
+      <workItem from="1583351134107" duration="1987000" />
+      <workItem from="1584704827015" duration="608000" />
+      <workItem from="1587655764368" duration="159000" />
     </task>
     <servers />
   </component>
@@ -199,30 +221,38 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1581689906316">
+    <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1583251185770">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="653" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689608667" />
-    <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1581689906316" />
-    <state width="1636" height="253" key="GridCell.Tab.0.bottom" timestamp="1582206112556">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583251185770" />
+    <state width="1878" height="253" key="GridCell.Tab.0.bottom" timestamp="1583443912164">
+      <screen x="-240" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="253" key="GridCell.Tab.0.bottom/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@-240.-1057.1920.1057" timestamp="1583443912164" />
     <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499496" />
-    <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1582206112556" />
-    <state width="1636" height="253" key="GridCell.Tab.0.center" timestamp="1582206112556">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583155031641" />
+    <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1582985443093" />
+    <state width="1878" height="253" key="GridCell.Tab.0.center" timestamp="1583443912163">
+      <screen x="-240" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="253" key="GridCell.Tab.0.center/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@-240.-1057.1920.1057" timestamp="1583443912163" />
     <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499495" />
-    <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1582206112556" />
-    <state width="1636" height="253" key="GridCell.Tab.0.left" timestamp="1582206112556">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583155031640" />
+    <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1582985443092" />
+    <state width="1878" height="253" key="GridCell.Tab.0.left" timestamp="1583443912161">
+      <screen x="-240" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="253" key="GridCell.Tab.0.left/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@-240.-1057.1920.1057" timestamp="1583443912161" />
     <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499494" />
-    <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1582206112556" />
-    <state width="1636" height="253" key="GridCell.Tab.0.right" timestamp="1582206112556">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583155031640" />
+    <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1582985443091" />
+    <state width="1878" height="253" key="GridCell.Tab.0.right" timestamp="1583443912163">
+      <screen x="-240" y="-1057" width="1920" height="1057" />
     </state>
+    <state width="1878" height="253" key="GridCell.Tab.0.right/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@-240.-1057.1920.1057" timestamp="1583443912163" />
     <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499496" />
-    <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1582206112556" />
+    <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583155031641" />
+    <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1582985443092" />
   </component>
 </project>
