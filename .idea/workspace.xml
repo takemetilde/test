@@ -1,35 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c66b20d8ee80427ab73d8a8fdc366cb8e28bc6e1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/objectmapper/model/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/objectmapper/model/ParticipantCapability.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704639ddfb43c948c938e33e540cd9ec1ed94fa3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704639ddfb43c948c938e33e540cd9ec1ed94fa3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca3053f5665d800962e5cf03b7abd16bf86a4aa0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/ignore/IgnoreFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/ignore/IgnoreFieldsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/ignore/MatcherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/ignore/PersonIgnoreFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/TestPatternReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/string/TestPatternReplace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/TestPatternReplace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/BaseImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/BaseImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/impl/ConcreteImpl2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/LambdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/lambda/LambdaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterfaceWithManyArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterfaceWithManyArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterfaceWithReturnValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/lambda/SingleMethodInterfaceWithReturnValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/model/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/model/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/model/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/model/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/model/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/model/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/reflections/ReflectionsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/reflections/ReflectionsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/steps/ConcreteSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/steps/ConcreteSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/test.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/org/streams/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/streams/StreamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/util/TestDataTableTypeRegistry$JacksonTableTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/util/TestDataTableTypeRegistry$JacksonTableTransformer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/util/TestDataTableTypeRegistry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/util/TestDataTableTypeRegistry.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +28,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -53,26 +50,21 @@
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1TnYl0ymVqy4yCQvrU60GiM7sTr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="{&quot;epochSecond&quot;:1582915843,&quot;nano&quot;:93000000}" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../notes" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -87,24 +79,24 @@
       <recent name="$PROJECT_DIR$/src/test/java/features" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StreamTest.stream_test_map">
-    <configuration name="StreamTest.stream_test_filter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MatcherTest.testMatcher">
+    <configuration name="MatcherTest.testMatcher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.streams.*" />
+          <option name="PATTERN" value="org.ignore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.streams" />
-      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
-      <option name="METHOD_NAME" value="stream_test_filter" />
+      <option name="PACKAGE_NAME" value="org.ignore" />
+      <option name="MAIN_CLASS_NAME" value="org.ignore.MatcherTest" />
+      <option name="METHOD_NAME" value="testMatcher" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest.stream_test_filter_then_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -114,7 +106,38 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.streams" />
       <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
-      <option name="METHOD_NAME" value="stream_test_filter_then_map" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest.check_if_panagram_using_stream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.streams" />
+      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
+      <option name="METHOD_NAME" value="check_if_panagram_using_stream" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest.stream_test_another_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.streams" />
+      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
+      <option name="METHOD_NAME" value="stream_test_another_map" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,48 +159,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPatternReplace.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.string" />
-      <option name="MAIN_CLASS_NAME" value="org.string.TestPatternReplace" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPatternReplace.testingMatcher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.string" />
-      <option name="MAIN_CLASS_NAME" value="org.string.TestPatternReplace" />
-      <option name="METHOD_NAME" value="testingMatcher" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MatcherTest.testMatcher" />
+        <item itemvalue="JUnit.StreamTest.check_if_panagram_using_stream" />
+        <item itemvalue="JUnit.StreamTest" />
+        <item itemvalue="JUnit.StreamTest.stream_test_another_map" />
         <item itemvalue="JUnit.StreamTest.stream_test_map" />
-        <item itemvalue="JUnit.TestPatternReplace.testingMatcher" />
-        <item itemvalue="JUnit.TestPatternReplace.test" />
-        <item itemvalue="JUnit.StreamTest.stream_test_filter_then_map" />
-        <item itemvalue="JUnit.StreamTest.stream_test_filter" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -212,47 +204,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1583251185770">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="653" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689608667" />
-    <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583251185770" />
-    <state width="1878" height="253" key="GridCell.Tab.0.bottom" timestamp="1583443912164">
-      <screen x="-240" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="253" key="GridCell.Tab.0.bottom/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@-240.-1057.1920.1057" timestamp="1583443912164" />
-    <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499496" />
-    <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583155031641" />
-    <state width="1636" height="253" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1582985443093" />
-    <state width="1878" height="253" key="GridCell.Tab.0.center" timestamp="1583443912163">
-      <screen x="-240" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="253" key="GridCell.Tab.0.center/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@-240.-1057.1920.1057" timestamp="1583443912163" />
-    <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499495" />
-    <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583155031640" />
-    <state width="1636" height="253" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1582985443092" />
-    <state width="1878" height="253" key="GridCell.Tab.0.left" timestamp="1583443912161">
-      <screen x="-240" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="253" key="GridCell.Tab.0.left/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@-240.-1057.1920.1057" timestamp="1583443912161" />
-    <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499494" />
-    <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583155031640" />
-    <state width="1636" height="253" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1582985443091" />
-    <state width="1878" height="253" key="GridCell.Tab.0.right" timestamp="1583443912163">
-      <screen x="-240" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1878" height="253" key="GridCell.Tab.0.right/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@-240.-1057.1920.1057" timestamp="1583443912163" />
-    <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.1027/-240.-1057.1920.1057/1680.-1057.1920.977@0.23.1680.1027" timestamp="1581689499496" />
-    <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.947/-240.-1057.1920.1057/1680.-1057.1920.1057@0.23.1680.947" timestamp="1583155031641" />
-    <state width="1636" height="253" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1582985443092" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
