@@ -1,13 +1,14 @@
 package org.ignore;
 
 import org.junit.Test;
+import org.model.Circle;
 import org.model.Person;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.is;
+import static org.hamcrest.Matchers.is;;
 import static org.hamcrest.Matchers.samePropertyValuesAs;
 
 public class MatcherTest {
@@ -19,6 +20,6 @@ public class MatcherTest {
 
     @Test
     public void testMatcher() {
-        assertThat(person1, is(samePropertyValuesAs(person3 , IgnoreFields.get(person1.getClass()))));
+        assertThat(person1, is(samePropertyValuesAs(person3 , IgnoreFields.get(Circle.class))));
     }
 }

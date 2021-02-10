@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/ignore/IgnoreFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/ignore/IgnoreFieldsInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/ignore/MatcherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/ignore/PersonIgnoreFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/streams/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/test.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/streams/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/streams/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/ignore/MatcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/ignore/MatcherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/ignore/MatcherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/ignore/MatcherTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
