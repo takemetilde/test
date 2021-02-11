@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/twilio/PullMessageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/ignore/MatcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/ignore/MatcherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/ignore/MatcherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/ignore/MatcherTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,7 +70,18 @@
       <recent name="$PROJECT_DIR$/src/test/java/features" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MatcherTest.testMatcher">
+  <component name="RunManager" selected="JUnit.PullMessageTest.pullMessage">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MatcherTest.testMatcher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -80,6 +93,22 @@
       <option name="PACKAGE_NAME" value="org.ignore" />
       <option name="MAIN_CLASS_NAME" value="org.ignore.MatcherTest" />
       <option name="METHOD_NAME" value="testMatcher" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PullMessageTest.pullMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.twilio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.twilio" />
+      <option name="MAIN_CLASS_NAME" value="org.twilio.PullMessageTest" />
+      <option name="METHOD_NAME" value="pullMessage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,29 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest.stream_test_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.streams" />
-      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
-      <option name="METHOD_NAME" value="stream_test_map" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PullMessageTest.pullMessage" />
         <item itemvalue="JUnit.MatcherTest.testMatcher" />
         <item itemvalue="JUnit.StreamTest.check_if_panagram_using_stream" />
         <item itemvalue="JUnit.StreamTest" />
         <item itemvalue="JUnit.StreamTest.stream_test_another_map" />
-        <item itemvalue="JUnit.StreamTest.stream_test_map" />
       </list>
     </recent_temporary>
   </component>
