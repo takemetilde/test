@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/robot/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/selenium/Samsung.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/ignore/MatcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/ignore/MatcherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/ignore/MatcherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/ignore/MatcherTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,14 +54,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="{&quot;epochSecond&quot;:1582915843,&quot;nano&quot;:93000000}" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../notes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/org/selenium" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/org/selenium" />
       <recent name="$PROJECT_DIR$/src/test/java/ncr/impl" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -68,7 +70,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/features" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MatcherTest.testMatcher">
+  <component name="RunManager" selected="JUnit.Samsung.getCodes">
     <configuration name="MatcherTest.testMatcher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -80,6 +82,38 @@
       <option name="PACKAGE_NAME" value="org.ignore" />
       <option name="MAIN_CLASS_NAME" value="org.ignore.MatcherTest" />
       <option name="METHOD_NAME" value="testMatcher" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mouse.moveMouse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.robot" />
+      <option name="MAIN_CLASS_NAME" value="org.robot.Mouse" />
+      <option name="METHOD_NAME" value="moveMouse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Samsung.getCodes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.selenium" />
+      <option name="MAIN_CLASS_NAME" value="org.selenium.Samsung" />
+      <option name="METHOD_NAME" value="getCodes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,45 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest.stream_test_another_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.streams" />
-      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
-      <option name="METHOD_NAME" value="stream_test_another_map" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest.stream_test_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.streams" />
-      <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
-      <option name="METHOD_NAME" value="stream_test_map" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Samsung.getCodes" />
+        <item itemvalue="JUnit.Mouse.moveMouse" />
         <item itemvalue="JUnit.MatcherTest.testMatcher" />
         <item itemvalue="JUnit.StreamTest.check_if_panagram_using_stream" />
         <item itemvalue="JUnit.StreamTest" />
-        <item itemvalue="JUnit.StreamTest.stream_test_another_map" />
-        <item itemvalue="JUnit.StreamTest.stream_test_map" />
       </list>
     </recent_temporary>
   </component>
