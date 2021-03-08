@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94690f79-eceb-45aa-9067-aed8d94b265c" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/org/twilio/PullMessageTest.java" afterDir="false" />
@@ -13,8 +14,12 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/org/robot/Mouse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/org/selenium/Samsung.java" afterDir="false" />
 >>>>>>> 331226fe52244ba783fe4b42a145bca7638b5ceb
+=======
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/datetime/DateTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/pattern/PatternTest.java" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/twilio/PullMessageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/twilio/PullMessageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +81,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/features" />
     </key>
   </component>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   <component name="RunManager" selected="JUnit.PullMessageTest.pullMessage">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -93,6 +99,31 @@
   <component name="RunManager" selected="JUnit.Samsung.getCodes">
 >>>>>>> 331226fe52244ba783fe4b42a145bca7638b5ceb
     <configuration name="MatcherTest.testMatcher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="JUnit.PatternTest.test">
+    <configuration name="DateTimeTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.datetime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.datetime" />
+      <option name="MAIN_CLASS_NAME" value="org.datetime.DateTimeTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+    <configuration name="PullMessageTest.pullMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="MatcherTest.testMatcher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -100,23 +131,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.ignore" />
-      <option name="MAIN_CLASS_NAME" value="org.ignore.MatcherTest" />
-      <option name="METHOD_NAME" value="testMatcher" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="PullMessageTest.pullMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.twilio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+<<<<<<< Updated upstream
       <option name="PACKAGE_NAME" value="org.twilio" />
       <option name="MAIN_CLASS_NAME" value="org.twilio.PullMessageTest" />
       <option name="METHOD_NAME" value="pullMessage" />
@@ -133,11 +148,17 @@
       <option name="MAIN_CLASS_NAME" value="org.robot.Mouse" />
       <option name="METHOD_NAME" value="moveMouse" />
 >>>>>>> 331226fe52244ba783fe4b42a145bca7638b5ceb
+=======
+      <option name="PACKAGE_NAME" value="org.ignore" />
+      <option name="MAIN_CLASS_NAME" value="org.ignore.MatcherTest" />
+      <option name="METHOD_NAME" value="testMatcher" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <configuration name="StreamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
 =======
@@ -160,26 +181,50 @@
       <option name="METHOD_NAME" value="getCodes" />
       <option name="TEST_OBJECT" value="method" />
 >>>>>>> 331226fe52244ba783fe4b42a145bca7638b5ceb
+=======
+    <configuration name="PatternTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pattern" />
+      <option name="MAIN_CLASS_NAME" value="org.pattern.PatternTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+>>>>>>> Stashed changes
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <configuration name="StreamTest.check_if_panagram_using_stream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
 =======
     <configuration name="StreamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
 >>>>>>> 331226fe52244ba783fe4b42a145bca7638b5ceb
+=======
+    <configuration name="PullMessageTest.pullMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.streams.*" />
+          <option name="PATTERN" value="org.twilio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< Updated upstream
       <option name="PACKAGE_NAME" value="org.streams" />
       <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
 <<<<<<< HEAD
       <option name="METHOD_NAME" value="check_if_panagram_using_stream" />
+=======
+      <option name="PACKAGE_NAME" value="org.twilio" />
+      <option name="MAIN_CLASS_NAME" value="org.twilio.PullMessageTest" />
+      <option name="METHOD_NAME" value="pullMessage" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
 =======
       <option name="TEST_OBJECT" value="class" />
@@ -188,11 +233,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <configuration name="StreamTest.stream_test_another_map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
 =======
     <configuration name="StreamTest.check_if_panagram_using_stream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
 >>>>>>> 331226fe52244ba783fe4b42a145bca7638b5ceb
+=======
+    <configuration name="StreamTest.check_if_panagram_using_stream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <module name="test" />
       <extension name="coverage">
         <pattern>
@@ -202,11 +251,15 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.streams" />
       <option name="MAIN_CLASS_NAME" value="org.streams.StreamTest" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       <option name="METHOD_NAME" value="stream_test_another_map" />
 =======
       <option name="METHOD_NAME" value="check_if_panagram_using_stream" />
 >>>>>>> 331226fe52244ba783fe4b42a145bca7638b5ceb
+=======
+      <option name="METHOD_NAME" value="check_if_panagram_using_stream" />
+>>>>>>> Stashed changes
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -214,6 +267,7 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         <item itemvalue="JUnit.PullMessageTest.pullMessage" />
         <item itemvalue="JUnit.MatcherTest.testMatcher" />
@@ -227,6 +281,13 @@
         <item itemvalue="JUnit.StreamTest.check_if_panagram_using_stream" />
         <item itemvalue="JUnit.StreamTest" />
 >>>>>>> 331226fe52244ba783fe4b42a145bca7638b5ceb
+=======
+        <item itemvalue="JUnit.PatternTest.test" />
+        <item itemvalue="JUnit.DateTimeTest.test" />
+        <item itemvalue="JUnit.PullMessageTest.pullMessage" />
+        <item itemvalue="JUnit.MatcherTest.testMatcher" />
+        <item itemvalue="JUnit.StreamTest.check_if_panagram_using_stream" />
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -254,11 +315,15 @@
       <workItem from="1583351134107" duration="1987000" />
       <workItem from="1584704827015" duration="608000" />
       <workItem from="1587655764368" duration="159000" />
+      <workItem from="1614207447070" duration="3038000" />
+      <workItem from="1614360804230" duration="4000" />
+      <workItem from="1614832829021" duration="3029000" />
+      <workItem from="1614842697530" duration="395000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

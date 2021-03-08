@@ -23,7 +23,7 @@ public class PullMessageTest {
                                                .limit(20)
                                                .read();
 
-        System.out.println("FIRST MESSAGE?!?!?!: " + messages.iterator().next());
+//        System.out.println("FIRST MESSAGE?!?!?!: " + messages.iterator().next());
 
         for(Message record : messages) {
             System.out.println(record.toString());
