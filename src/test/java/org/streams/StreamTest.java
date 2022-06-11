@@ -7,6 +7,7 @@ import org.model.Square;
 import scala.Char;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
@@ -64,6 +65,8 @@ public class StreamTest {
 
         List<Circle> circleList = Stream.of(circleIds).map(Circle::new).collect(Collectors.toList());
         circleList.stream().forEach(c -> System.out.println(c.toString()));
+
+        List<Circle> circleList2 = Arrays.stream(circleIds).map(c -> new Circle(c)).collect(Collectors.toList());
     }
 
     @Test
@@ -83,7 +86,7 @@ public class StreamTest {
     @Test
     public void stream_test_another_map() {
         System.out.println(list4);
-        list4.stream().filter(s -> s.getClass().equals(Circle.class));
+        list4.stream().filter(s -> s.getClass().equals(Circle.class)).forEach(System.out::println);
     }
 
     @Test
